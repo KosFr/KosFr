@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konstantin Frolov.
-- 🌱 I’m currently looking for a job as a data analyst.
-- 🎓 I've completed an educational course on data analysis by Yandex Practicum.
+- 🌱 I work as a data analyst at VkusVill.
+- 🎓 In 2023 I've completed an educational course on data analysis by Yandex Practicum.
 - 👀 My background includes MA in culture studies, as well as years of teaching English.
 - 📫 How to reach me? Contact via email (kostyafrol2014@gmail.com) or say hello in tg (https://t.me/kafrolov).
 
